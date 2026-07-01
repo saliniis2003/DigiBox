@@ -1,0 +1,8 @@
+{
+  "name": "DigiBox",
+  "description": "Premium digital agency offering website creation, product photo editing, logo design, and AI agent solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
